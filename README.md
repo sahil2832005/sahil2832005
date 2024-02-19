@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sahil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sahil" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/sahil sadekar](https://www.linkedin.com/in/sahil-sadekar-06218722b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil sadekar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sahil-sadekar-06218722b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil sadekar" height="30" width="40" /></a>
 <a href="https://medium.com/@sahil sadekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sahil sadekar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sahil sadekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahil sadekar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sahil28032005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahil28032005" height="30" width="40" /></a>
