@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Sadekar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="right" width="400px" alt="coding...." src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
+<img align="right" width="400px" alt="coding...." src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil28032005&label=Profile%20views&color=0e75b6&style=flat" alt="sahil28032005" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil28032005" alt="sahil28032005" /></a> </p>
