@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sahil Sadekar</h1>
 <h3 align="center">A passionate software developer from India</h3>
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=sahil28032005&theme=neon-dark&border_radius=6&mode=weekly&fire=DD2727&currStreakNum=DD2727)](https://git.io/streak-stats) -->
 
 <img align="right" width="400px" alt="coding...." src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil28032005&label=Profile%20views&color=0e75b6&style=flat" alt="sahil28032005" /> </p>
+
+[![Sahil's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahil28032005&theme=react-dark&hide_border=true&area=true&custom_title=Code%20Combustion%20Chart)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil28032005" alt="sahil28032005" /></a> </p>
 
