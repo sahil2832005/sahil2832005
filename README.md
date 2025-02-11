@@ -1,5 +1,29 @@
 <h1 align="center">Hi 👋, I'm Sahil Sadekar</h1>
 <h3 align="center">A passionate software developer from India</h3>
+
+
+
+<div align="center">
+  
+[![Java Core](https://img.shields.io/badge/Java-Expert-007396?style=flat&logo=java&logoColor=white&labelColor=002200)](https://github.com/sahil28032005)
+[![Android SDK](https://img.shields.io/badge/Android-Jedi-3DDC84?style=flat&logo=android&logoColor=white&labelColor=002200)](https://github.com/sahil28032005)
+[![Docker Containers](https://img.shields.io/badge/Docker-Overlord-2496ED?style=flat&logo=docker&logoColor=white&labelColor=002200)](https://github.com/sahil28032005)
+[![Kafka Streams](https://img.shields.io/badge/Kafka-Quantum-231F20?style=flat&logo=apachekafka&logoColor=white&labelColor=002200)](https://github.com/sahil28032005)
+
+</div>
+
+<div align="center">
+  
+[![Open Source Experiments](https://img.shields.io/badge/Active_Experiments-12-00ff88?style=for-the-badge&logo=react&logoColor=white&labelColor=002200)](https://github.com/sahil28032005)
+</div>
+
+[![GitHub Quantum](https://img.shields.io/badge/dynamic/json?color=00ff88&label=Code%20Entanglement&query=total&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsahil28032005&logo=quantum&logoColor=white&style=for-the-badge&labelColor=002200&suffix=%20Qubits)](https://github.com/sahil28032005)
+
+
+
+[![Deployment Warp Speed](https://img.shields.io/badge/dynamic/json?color=00ff88&label=Weekly%20Deploys&query=count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fsahil28032005%2Fyour-repo%2Factions%2Fruns&logo=githubactions&logoColor=white&style=for-the-badge&labelColor=002200)](https://github.com/sahil28032005)
+
+
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=sahil28032005&theme=neon-dark&border_radius=6&mode=weekly&fire=DD2727&currStreakNum=DD2727)](https://git.io/streak-stats) -->
 
 <img align="right" width="400px" alt="coding...." src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
@@ -7,6 +31,8 @@
 
 [![Sahil's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahil28032005&theme=react-dark&hide_border=true&area=true&custom_title=Code%20Combustion%20Chart)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+[![Code Combustion Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahil28032005&theme=react-dark&hide_border=true&area=true&custom_title=Code%20Thermal%20Signature%20%F0%9F%94%A5&color=00ff88&line=00ff88&point=ffffff&area_color=002200)](https://github.com/sahil28032005)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil28032005" alt="sahil28032005" /></a> </p>
 
 - 🔭 I’m currently working on [React Basics](https://github.com/sahil28032005/sahil28032005.git)
@@ -66,6 +92,11 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
 </p>
+
+<a href="https://github.com/sahil28032005">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahil28032005&theme=github_dark&exclude=Jupyter%20Notebook&border_radius=12&text_color=38ff8e&title_color=22da6e" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahil28032005&theme=github_dark&border_radius=12&text_color=38ff8e&title_color=22da6e" />
+</a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil28032005&show_icons=true&locale=en&layout=compact" alt="sahil28032005" /></p>
 
