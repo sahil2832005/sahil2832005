@@ -93,10 +93,7 @@
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
 </p>
 
-<a href="https://github.com/sahil28032005">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahil28032005&theme=github_dark&exclude=Jupyter%20Notebook&border_radius=12&text_color=38ff8e&title_color=22da6e" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahil28032005&theme=github_dark&border_radius=12&text_color=38ff8e&title_color=22da6e" />
-</a>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil28032005&show_icons=true&locale=en&layout=compact" alt="sahil28032005" /></p>
 
