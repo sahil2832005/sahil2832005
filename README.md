@@ -1,39 +1,40 @@
-<h1 align="center">Hi 👋, I'm Sahil Sadekar</h1>
-<h3 align="center">A passionate software developer from India</h3>
-
-
+<h1 align="center" style="color: #ff2a2a; text-shadow: 2px 2px 4px #1a1a1a;">Hi 👋, I'm Sahil Sadekar</h1>
+<h3 align="center" style="color: #ff5555;">A passionate software developer from India</h3>
 
 <div align="center">
   
-[![Java Core](https://img.shields.io/badge/Java-Expert-007396?style=flat&logo=java&logoColor=white&labelColor=002200)](https://github.com/sahil28032005)
-[![Android SDK](https://img.shields.io/badge/Android-Jedi-3DDC84?style=flat&logo=android&logoColor=white&labelColor=002200)](https://github.com/sahil28032005)
-[![Docker Containers](https://img.shields.io/badge/Docker-Overlord-2496ED?style=flat&logo=docker&logoColor=white&labelColor=002200)](https://github.com/sahil28032005)
-[![Kafka Streams](https://img.shields.io/badge/Kafka-Quantum-231F20?style=flat&logo=apachekafka&logoColor=white&labelColor=002200)](https://github.com/sahil28032005)
+[![Java Core](https://img.shields.io/badge/Java-Expert-ff2a2a?style=flat&logo=java&logoColor=white&labelColor=1a1a1a)](https://github.com/sahil28032005)
+[![Android SDK](https://img.shields.io/badge/Android-Jedi-ff5555?style=flat&logo=android&logoColor=white&labelColor=1a1a1a)](https://github.com/sahil28032005)
+[![Docker Containers](https://img.shields.io/badge/Docker-Overlord-ff2a2a?style=flat&logo=docker&logoColor=white&labelColor=1a1a1a)](https://github.com/sahil28032005)
+[![Kafka Streams](https://img.shields.io/badge/Kafka-Quantum-ff5555?style=flat&logo=apachekafka&logoColor=white&labelColor=1a1a1a)](https://github.com/sahil28032005)
 
 </div>
 
 <div align="center">
   
-[![Open Source Experiments](https://img.shields.io/badge/Active_Experiments-12-00ff88?style=for-the-badge&logo=react&logoColor=white&labelColor=002200)](https://github.com/sahil28032005)
+[![Open Source Experiments](https://img.shields.io/badge/Active_Experiments-12-ff2a2a?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1a1a)](https://github.com/sahil28032005)
 </div>
 
-[![GitHub Quantum](https://img.shields.io/badge/dynamic/json?color=00ff88&label=Code%20Entanglement&query=total&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsahil28032005&logo=quantum&logoColor=white&style=for-the-badge&labelColor=002200&suffix=%20Qubits)](https://github.com/sahil28032005)
+[![Code Inferno](https://github-readme-activity-graph.vercel.app/graph?username=sahil28032005&theme=redical&hide_border=true&area=true&custom_title=Code%20Combustion%20Graph&color=ff5555&line=ff2a2a&point=ffffff&area_color=1a1a1a)](https://github.com/sahil28032005)
 
 
 
-[![Deployment Warp Speed](https://img.shields.io/badge/dynamic/json?color=00ff88&label=Weekly%20Deploys&query=count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fsahil28032005%2Fyour-repo%2Factions%2Fruns&logo=githubactions&logoColor=white&style=for-the-badge&labelColor=002200)](https://github.com/sahil28032005)
+<!-- Keep original trophy section -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil28032005" alt="sahil28032005" /></a> </p>
+
+<!-- Rest of the original content remains unchanged below -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sahil28032005&theme=neon-dark&border_radius=6&mode=weekly&fire=DD2727&currStreakNum=DD2727)](https://git.io/streak-stats)
 
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=sahil28032005&theme=neon-dark&border_radius=6&mode=weekly&fire=DD2727&currStreakNum=DD2727)](https://git.io/streak-stats) -->
 
 <img align="right" width="400px" alt="coding...." src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil28032005&label=Profile%20views&color=0e75b6&style=flat" alt="sahil28032005" /> </p>
+)
 
-[![Sahil's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahil28032005&theme=react-dark&hide_border=true&area=true&custom_title=Code%20Combustion%20Chart)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-[![Code Combustion Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahil28032005&theme=react-dark&hide_border=true&area=true&custom_title=Code%20Thermal%20Signature%20%F0%9F%94%A5&color=00ff88&line=00ff88&point=ffffff&area_color=002200)](https://github.com/sahil28032005)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil28032005" alt="sahil28032005" /></a> </p>
 
 - 🔭 I’m currently working on [React Basics](https://github.com/sahil28032005/sahil28032005.git)
 
