@@ -32,19 +32,38 @@
 
 
 
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahil28032005&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117" />
+      </td>
+      <td width="50%" align="center">
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil28032005&theme=tokyonight&hide_border=true&background=0D1117" />
+      </td>
+    </tr>
+  </table>
+</div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-- 🔭 I’m currently working on [React Basics](https://github.com/sahil28032005/sahil28032005.git)
+- 🔮 **Currently exploring:** [React Basics](https://github.com/sahil28032005/sahil28032005.git)
+- 💻 **Working with:** 
+  <div>
+    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white&color=0D1117&labelColor=1A237E" alt="Kafka"/>
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white&color=0D1117&labelColor=1A237E" alt="RabbitMQ"/>
+    <img src="https://img.shields.io/badge/BullMQ-00ADEF?style=for-the-badge&logo=redis&logoColor=white&color=0D1117&labelColor=1A237E" alt="BullMQ"/>
+  </div>
+- 🌐 **Technical focus:** <span style="background: linear-gradient(to right, #3b82f6, #2dd4bf); -webkit-background-clip: text; color: transparent; font-weight: bold;">`EVENT STREAMING`</span> | <span style="background: linear-gradient(to right, #3b82f6, #2dd4bf); -webkit-background-clip: text; color: transparent; font-weight: bold;">`MESSAGE QUEUE SYSTEMS`</span> | <span style="background: linear-gradient(to right, #3b82f6, #2dd4bf); -webkit-background-clip: text; color: transparent; font-weight: bold;">`PLATFORM ARCHITECTURE`</span>
+- 👨‍💻 **Projects:** [sahilportfolio2005.netlify.app](https://sahilportfolio2005.netlify.app/)
+- 📝 **Technical writing:** [sahilportfolio2005.netlify.app](https://sahilportfolio2005.netlify.app/)
+- 💬 **Technical expertise:** React, Android, HTML, CSS, JavaScript, Event-Driven Architecture
+- 📫 **Contact:** [sahilsadekar249775@gmail.com](mailto:sahilsadekar249775@gmail.com)
 
-- 👨‍💻 All of my projects are available at [https://sahilportfolio2005.netlify.app/](https://sahilportfolio2005.netlify.app/)
-
-- 📝 I regularly write articles on [https://sahilportfolio2005.netlify.app/](https://sahilportfolio2005.netlify.app/)
-
-- 💬 Ask me about **react, android, html, css, js**
-
-- 📫 How to reach me **sahilsadekar249775@gmail.com**
-
-- 📄 Know about my experiences [https://sahilportfolio2005.netlify.app/](https://sahilportfolio2005.netlify.app/)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
