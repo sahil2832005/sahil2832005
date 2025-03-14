@@ -27,21 +27,12 @@
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=sahil28032005&theme=neon-dark&border_radius=6&mode=weekly&fire=DD2727&currStreakNum=DD2727)](https://git.io/streak-stats) -->
 
-<img align="right" width="400px" alt="coding...." src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align="center" width="400px" alt="coding...." src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil28032005&label=Profile%20views&color=0e75b6&style=flat" alt="sahil28032005" /> </p>
 
 
 
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahil28032005&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117" />
-      </td>
-      <td width="50%" align="center">
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil28032005&theme=tokyonight&hide_border=true&background=0D1117" />
-      </td>
-    </tr>
-  </table>
+
 </div>
 
 <div align="center">
@@ -111,11 +102,18 @@
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
 </p>
 
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahil28032005&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117" />
+      </td>
+      <td width="50%" align="center">
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil28032005&theme=tokyonight&hide_border=true&background=0D1117" />
+      </td>
+    </tr>
+  </table>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil28032005&show_icons=true&locale=en&layout=compact" alt="sahil28032005" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil28032005&show_icons=true&locale=en" alt="sahil28032005" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil28032005&" alt="sahil28032005" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil28032005&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=ffffff" alt="sahil28032005" />
+</p>
 
