@@ -22,6 +22,11 @@
 <!-- Keep original trophy section -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil28032005" alt="sahil28032005" /></a> </p>
 
+[![My GIF](https://github.com/sahil28032005/sahil28032005/blob/main/flarenet.gif)](https://www.linkedin.com/feed/update/urn:li:activity:7303383892227481602/)
+
+<p>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7303383892227481602/">🔥 Watch the full video on LinkedIn! 🔥</a>
+</p>
 
 
 
@@ -34,6 +39,8 @@
 
 
 </div>
+
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
