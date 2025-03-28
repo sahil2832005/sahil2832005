@@ -22,11 +22,44 @@
 <!-- Keep original trophy section -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil28032005" alt="sahil28032005" /></a> </p>
 
-[![My GIF](https://github.com/sahil28032005/sahil28032005/blob/main/flarenet.gif)](https://www.linkedin.com/feed/update/urn:li:activity:7303383892227481602/)
+## 🚀 My Project Showcases  
 
-<p>
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7303383892227481602/">🔥 Watch the full video on LinkedIn! 🔥</a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7303383892227481602/">
+        <img src="https://github.com/sahil28032005/sahil28032005/blob/main/flarenet.gif" width="300px" alt="FlareNet Showcase GIF"/>
+      </a>
+      <br>
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7303383892227481602/"><strong>🔥 Watch FlareNet Showcase</strong></a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7247323637471465474/">
+        <img src="https://github.com/sahil28032005/sahil28032005/blob/main/cbi.gif" width="300px" alt="CBI Showcase GIF"/>
+      </a>
+      <br>
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7247323637471465474/"><strong>🔥 Watch CBI Showcase</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7292006393765621760/">
+        <img src="https://github.com/sahil28032005/sahil28032005/blob/main/flarenet_v2.gif" width="300px" alt="FlareNet V2 Showcase GIF"/>
+      </a>
+      <br>
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7292006393765621760/"><strong>🔥 Watch FlareNet V2 Showcase</strong></a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7226234137542574080/">
+        <img src="https://github.com/sahil28032005/sahil28032005/blob/main/tourisom.gif" width="300px" alt="Tourism Showcase GIF"/>
+      </a>
+      <br>
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7226234137542574080/"><strong>🔥 Watch Tourism Showcase</strong></a>
+    </td>
+  </tr>
+</table>
+
+
 
 
 
