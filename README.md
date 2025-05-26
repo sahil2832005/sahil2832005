@@ -79,7 +79,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-- 🔮 **Currently exploring:** [React Basics](https://github.com/sahil28032005/sahil28032005.git)
+- 🔮 **Currently exploring:** [Distributed Computing and System Design](https://github.com/sahil28032005/sahil28032005.git)
 - 💻 **Working with:** 
   <div>
     <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white&color=0D1117&labelColor=1A237E" alt="Kafka"/>
