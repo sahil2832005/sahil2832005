@@ -2,25 +2,26 @@
 <h3 align="center" style="color: #ff5555;">A passionate software developer from India</h3>
 
 <div align="center">
+
   
-[![Java Core](https://img.shields.io/badge/Java-Expert-ff2a2a?style=flat&logo=java&logoColor=white&labelColor=1a1a1a)](https://github.com/sahil28032005)
-[![Android SDK](https://img.shields.io/badge/Android-Jedi-ff5555?style=flat&logo=android&logoColor=white&labelColor=1a1a1a)](https://github.com/sahil28032005)
-[![Docker Containers](https://img.shields.io/badge/Docker-Overlord-ff2a2a?style=flat&logo=docker&logoColor=white&labelColor=1a1a1a)](https://github.com/sahil28032005)
-[![Kafka Streams](https://img.shields.io/badge/Kafka-Quantum-ff5555?style=flat&logo=apachekafka&logoColor=white&labelColor=1a1a1a)](https://github.com/sahil28032005)
+[![Java Core](https://img.shields.io/badge/Java-Expert-ff2a2a?style=flat&logo=java&logoColor=white&labelColor=1a1a1a)](https://github.com/sahil2832005)
+[![Android SDK](https://img.shields.io/badge/Android-Jedi-ff5555?style=flat&logo=android&logoColor=white&labelColor=1a1a1a)](https://github.com/sahil2832005)
+[![Docker Containers](https://img.shields.io/badge/Docker-Overlord-ff2a2a?style=flat&logo=docker&logoColor=white&labelColor=1a1a1a)](https://github.com/sahil2832005)
+[![Kafka Streams](https://img.shields.io/badge/Kafka-Quantum-ff5555?style=flat&logo=apachekafka&logoColor=white&labelColor=1a1a1a)](https://github.com/sahil2832005)
 
 </div>
 
 <div align="center">
   
-[![Open Source Experiments](https://img.shields.io/badge/Active_Experiments-12-ff2a2a?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1a1a)](https://github.com/sahil28032005)
+[![Open Source Experiments](https://img.shields.io/badge/Active_Experiments-12-ff2a2a?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1a1a)](https://github.com/sahil2832005)
 </div>
 
-[![Code Inferno](https://github-readme-activity-graph.vercel.app/graph?username=sahil28032005&theme=redical&hide_border=true&area=true&custom_title=Code%20Combustion%20Graph&color=ff5555&line=ff2a2a&point=ffffff&area_color=1a1a1a)](https://github.com/sahil28032005)
+[![Code Inferno](https://github-readme-activity-graph.vercel.app/graph?username=sahil2832005&theme=redical&hide_border=true&area=true&custom_title=Code%20Combustion%20Graph&color=ff5555&line=ff2a2a&point=ffffff&area_color=1a1a1a)](https://github.com/sahil2832005)
 
 
 
 <!-- Keep original trophy section -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil28032005" alt="sahil28032005" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil2832005" alt="sahil2832005" /></a> </p>
 
 ## 🚀 My Project Showcases  
 
@@ -28,14 +29,14 @@
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7303383892227481602/">
-        <img src="https://github.com/sahil28032005/sahil28032005/blob/main/flarenet.gif" width="300px" alt="FlareNet Showcase GIF"/>
+        <img src="https://github.com/sahil2832005/sahil2832005/blob/main/flarenet.gif" width="300px" alt="FlareNet Showcase GIF"/>
       </a>
       <br>
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7303383892227481602/"><strong>🔥 Watch FlareNet Showcase</strong></a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7247323637471465474/">
-        <img src="https://github.com/sahil28032005/sahil28032005/blob/main/cbi.gif" width="300px" alt="CBI Showcase GIF"/>
+        <img src="https://github.com/sahil2832005/sahil2832005/blob/main/cbi.gif" width="300px" alt="CBI Showcase GIF"/>
       </a>
       <br>
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7247323637471465474/"><strong>🔥 Watch CBI Showcase</strong></a>
@@ -44,14 +45,14 @@
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7292006393765621760/">
-        <img src="https://github.com/sahil28032005/sahil28032005/blob/main/flarenet_v2.gif" width="300px" alt="FlareNet V2 Showcase GIF"/>
+        <img src="https://github.com/sahil2832005/sahil2832005/blob/main/flarenet_v2.gif" width="300px" alt="FlareNet V2 Showcase GIF"/>
       </a>
       <br>
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7292006393765621760/"><strong>🔥 Watch FlareNet V2 Showcase</strong></a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7226234137542574080/">
-        <img src="https://github.com/sahil28032005/sahil28032005/blob/main/tourisom.gif" width="300px" alt="Tourism Showcase GIF"/>
+        <img src="https://github.com/sahil2832005/sahil2832005/blob/main/tourisom.gif" width="300px" alt="Tourism Showcase GIF"/>
       </a>
       <br>
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7226234137542574080/"><strong>🔥 Watch Tourism Showcase</strong></a>
@@ -63,10 +64,10 @@
 
 
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=sahil28032005&theme=neon-dark&border_radius=6&mode=weekly&fire=DD2727&currStreakNum=DD2727)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=sahil2832005&theme=neon-dark&border_radius=6&mode=weekly&fire=DD2727&currStreakNum=DD2727)](https://git.io/streak-stats) -->
 
 <img align="center" width="400px" alt="coding...." src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil28032005&label=Profile%20views&color=0e75b6&style=flat" alt="sahil28032005" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil2832005&label=Profile%20views&color=0e75b6&style=flat" alt="sahil2832005" /> </p>
 
 
 
@@ -79,7 +80,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-- 🔮 **Currently exploring:** [Distributed Computing and System Design ,Event Streaming ,Event Sourcing](https://github.com/sahil28032005/sahil28032005.git)
+- 🔮 **Currently exploring:** [Distributed Computing and System Design ,Event Streaming ,Event Sourcing](https://github.com/sahil2832005/sahil2832005.git)
 - 💻 **Working with:** 
   <div>
     <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white&color=0D1117&labelColor=1A237E" alt="Kafka"/>
@@ -106,7 +107,7 @@
 <a href="https://www.linkedin.com/in/sahil-sadekar-06218722b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil sadekar" height="30" width="40" /></a>
 <a href="https://medium.com/@sahil sadekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sahil sadekar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/sahilsadekar2491" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahil sadekar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sahil28032005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahil28032005" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sahil2832005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahil2832005" height="30" width="40" /></a>
 <a href="/https://sahilportfolio2005.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://sahilportfolio2005.netlify.app/" height="30" width="40" /></a>
 </p>
 
@@ -151,15 +152,15 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahil28032005&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahil2832005&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117" />
       </td>
       <td width="50%" align="center">
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil28032005&theme=tokyonight&hide_border=true&background=0D1117" />
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil2832005&theme=tokyonight&hide_border=true&background=0D1117" />
       </td>
     </tr>
   </table>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil28032005&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=ffffff" alt="sahil28032005" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil2832005&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=ffffff" alt="sahil2832005" />
 </p>
 
